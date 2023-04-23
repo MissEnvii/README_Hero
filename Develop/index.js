@@ -145,7 +145,7 @@ const writeToFile = data => {
             // if everything went well, resolve the Promise and send the successful data to the .then() method
             resolve({
                 ok: true,
-                message: console.log('Success! Navigate to the "dist" folder to see your README!')
+                message: console.log('Success! Navigate to the your README!')
             });
         })
     })

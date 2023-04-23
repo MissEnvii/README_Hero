@@ -10,15 +10,15 @@
   * [Questions](#questions)
   * [Credits](#credits)
   ## Description
-  Super simple way for developers to create a readme repo
+  Your GitHub profile is an extremely important aspect of your public identity as a developer. A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.With this README generator, you no longer need to create a professional README from scratch. Simply answer a few questions and watch as a README is created before your very eyes.
   ## Installation
-  Make sure you have these programs installed on your computer -VS code -GitBash -Node.js
+  Before attempting to use this project, make sure to have these programs installed on your computer: VS Code, GitBash, Node.js
   ## Usage
-  Within the directory for this project, initialize prompts using the command "node index.js". FRom there, simply enter the necessary information for you project. Then a new README file will be genertated    and placed into a readme file
+  Once software is downloaded and Node packages are initialized, it's time to get started! Within the directory for this project, initialize prompts using the command "node index.js". From there, simply enter the necessary information for your project, and voila! A new README file will be generated
   ## Licenses
     This project is covered under the MIT license. To learn more about what this means, click the license button at the top.
   ## Contributing
-  N/A
+  People can Clone this Project from my Githud and change the question for their own projects.
   ## Tests
   undefined
   ## Questions
